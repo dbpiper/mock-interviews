@@ -1,0 +1,8 @@
+.InputItem {
+  display: inline-block;
+}
+
+.RemoveButton {
+  margin-left: 10px;
+  padding: 0;
+}
